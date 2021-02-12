@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div id="header"></div>
+<div class="right"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume</h1>
+  <h2>NERELYN CAHIGAS</h2>
+<h4>223 Hulo St., Brgy. Bignay Valenzuela City</h4>
+<h4>Metro Manila, Philippines 1440</h4>
+<h4>Contact #: 09094435614</h4>
+<h4>Email Address : nhery.luchavez23@gmail.com</h4>
+  <hr />
+  <br>
+  <p class="head">Technical Skills</p>
+  <ul>
+    <li>Data Encoding/ Processing(Microsoft Offices)</li>
+    <li>SAP Knowledgeable</li>
+    <li>Adobe Creative Suite (Photoshop)</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+    <li>Rama Elemntary School</li>
+    </a>
+    <!--Link-->
+    <li>Antonio G. Tuason National High School</li>
+    </a>
+    <li>Samar State University</li>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>SAP Encoder - National Bookstore Inc. Pioneer Central Warehouse</li>
+    <li>Warehouse Documentaion Staff - CHG Global Inc.(World Balance)</li>
+  </ul>
+   <ul>
+   </ul>
+ <br>
+    <l>I hereby certify that above information is true and correct to the best of my knowledge and belief</li>
+  </ul>
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h3 id="name">Nerelyn Cahigas</h3></div>
